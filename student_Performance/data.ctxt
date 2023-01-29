@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=data
+comment1.params=
+comment1.target=data()
+comment2.params=name2\ stu2\ cls2\ tc2\ mel2\ eng2\ m32\ tot2\ ave2\ sc2\ rank2\ rankbi2\ rankmt2\ ranksc2\ com2
+comment2.target=data(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3

@@ -1,0 +1,42 @@
+SMK MELATI KOTA KINABALU
+
+*************************************
+
+NAME:	Song Kang
+
+STUDENT ID:	12345
+
+CLASS:	Star
+
+TEACHER:	Hyun Bin
+
+*************************************
+
+RESULTS
+
+
+MELAYU:	97
+
+ENGLISH:	56
+
+MATHEMATICS:	43
+
+SCIENCE:	56
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOTAL:	252
+
+GPA:	2.32
+
+BM's GRADE:	A
+
+BI's GRADE:	C
+
+BI's GRADE:	C
+
+BI's GRADE:	C
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COMMENT:	Good Job!
